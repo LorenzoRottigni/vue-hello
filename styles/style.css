@@ -1,0 +1,16 @@
+body{
+    background-color: #37495f;
+}
+h1,img{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 2rem;
+}
+h1{
+    color: whitesmoke;
+    font-size: 5vw;
+    text-align: center;
+}
+img{
+    
+}
